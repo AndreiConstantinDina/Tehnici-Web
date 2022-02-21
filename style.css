@@ -1,0 +1,34 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: red;
+  }
+
+  .class1{
+      background-color: blueviolet;
+      color: black;
+  }
+
+  #id1{
+      color: teal;
+      background-color: aliceblue;
+  }
+
+  .div1{
+    background-color: red;
+      width: 25px;
+      height: 25px;
+      margin: 100px;
+      
+  }
+
+  .div2{
+    background-color: blue;
+      width: 25px;
+      height: 25px;
+      padding: 100px;
+  }
